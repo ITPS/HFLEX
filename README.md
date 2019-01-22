@@ -1,4 +1,4 @@
-# HFLEX Links for WebEx CST / UTC -6 2018-NOV-28 to 30
+# HFLEX Links for WebEx VILT GMT/UTC 2019-JAN-22 to 24
 
 ## [HyperFlex Operations and Management Introduction - Nicholas Riegel (Google Slides)](https://docs.google.com/presentation/d/1PPx25BElgeH2tkLojk5ROpbAw7Amkp_3Q6Txwluyq_A/edit?usp=sharing)
 
