@@ -1,4 +1,4 @@
-# DCIHX Links for ILT Quito, Ecuador 2019-NOV-24 to 26
+# DCIHX Links for ILT San Antonio, TX 2019-DEC-9 to 11
 
 ## [Implementing Cisco HyperFlex Introduction - Nicholas Riegel (Google Slides)](https://docs.google.com/presentation/d/1PPx25BElgeH2tkLojk5ROpbAw7Amkp_3Q6Txwluyq_A/edit?usp=sharing)
 
