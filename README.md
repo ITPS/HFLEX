@@ -4,4 +4,4 @@
 
 ## [HyperFlex Helpful Links (Google Doc)](https://docs.google.com/document/d/1TwuGTIXgghAj1ZTpWNfTK8qElerPKTYyj3giHiLt2mQ/edit?usp=sharing)
 
-## [DCIHX Lab Assignments and Course Module Information -  ILT Quito, Ecuador 2019-NOV-24 to 26 (Google Sheet)](https://docs.google.com/spreadsheets/d/1dTOg5i6_xS-GgB9qUrnymRNMpc_nwaOkEw3eannzxDQ/edit?usp=sharing)
+## [DCIHX Lab Assignments and Course Module Information - San Antonio, TX 2019-DEC-9 to 11 (Google Sheet)](https://docs.google.com/spreadsheets/d/1O6UpYbxdBw3mw_VvdJ0jHXUgZkBycyQJYlrX4ZSG2w0/edit?usp=sharing)
